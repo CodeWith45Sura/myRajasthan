@@ -9,18 +9,14 @@
 header {
   background-color: #0e1f2d;
 }
-#welcomeline {
-  font-size: 60px;
-  font-weight: 600;
-  font-style: italic;
-  color: wheat;
-}
+
 
 .introline {
   padding: 1rem;
 }
 
 /*       container  2         */
+
 .container2 {
   display: flex;
   justify-content: space-evenly;
