@@ -10,7 +10,6 @@ header {
   background-color: #0e1f2d;
 }
 
-
 .introline {
   padding: 1rem;
 }
@@ -26,7 +25,6 @@ header {
 img {
   max-height: 250px;
 }
-
 .card {
   margin: 1rem;
   box-shadow: 3px 3px 5px rgb(115 103 103 / 32%);
